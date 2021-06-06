@@ -11,7 +11,7 @@ COVID-19 데이터를 이용한 EDA
 <img src = "https://user-images.githubusercontent.com/18055781/120914424-37b8e880-c6d9-11eb-9e0f-7d40652c5931.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914425-38517f00-c6d9-11eb-831c-028fa157fe74.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914426-38517f00-c6d9-11eb-9c7c-e51510c4198b.jpeg">
-## [by_gender_analysis.ipynb]()
+## [by_gender_analysis.ipynb](https://github.com/YOONSOOJINSOOJIN/Covid19_EDA_project/blob/main/by_age_analysis.ipynb)
 <img src = "https://user-images.githubusercontent.com/18055781/120914427-38ea1580-c6d9-11eb-90db-84a03695366a.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914429-38ea1580-c6d9-11eb-94f7-582fd59caedd.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914430-3982ac00-c6d9-11eb-9d5d-d6aa4c074bf9.jpeg">
