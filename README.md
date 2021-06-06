@@ -1,5 +1,5 @@
-# 🧐 코로나 데이터를 활용한 시각화 프로젝트
-코로나 데이터를 이용한 EDA
+# 🧐 COVID-19 데이터를 활용한 시각화 프로젝트
+COVID-19 데이터를 이용한 EDA
 <img src = "https://user-images.githubusercontent.com/18055781/120914414-3091da80-c6d9-11eb-956c-31db1f7847d4.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914416-338ccb00-c6d9-11eb-9bc9-fd0a6f9e8750.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914417-34bdf800-c6d9-11eb-882d-96287b117ce7.jpeg">
