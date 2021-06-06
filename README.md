@@ -11,21 +11,29 @@
 <img src = "https://user-images.githubusercontent.com/18055781/120914424-37b8e880-c6d9-11eb-9e0f-7d40652c5931.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914425-38517f00-c6d9-11eb-831c-028fa157fe74.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914426-38517f00-c6d9-11eb-9c7c-e51510c4198b.jpeg">
+
 ## [⚤ by_gender_analysis.ipynb](https://github.com/YOONSOOJINSOOJIN/Covid19_EDA_project/blob/main/by_gender_analysis.ipynb)
+
 <img src = "https://user-images.githubusercontent.com/18055781/120914427-38ea1580-c6d9-11eb-90db-84a03695366a.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914429-38ea1580-c6d9-11eb-94f7-582fd59caedd.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914430-3982ac00-c6d9-11eb-9d5d-d6aa4c074bf9.jpeg">
+
 ## [⚤ by_gender_recovery_time.ipynb](https://github.com/YOONSOOJINSOOJIN/Covid19_EDA_project/blob/main/by_gender_recovery_time.ipynb)
+
 <img src = "https://user-images.githubusercontent.com/18055781/120914431-3a1b4280-c6d9-11eb-8b5c-b9bae2df700b.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914432-3a1b4280-c6d9-11eb-9ab1-0e9f567a5c6f.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914433-3ab3d900-c6d9-11eb-9c43-4eb0cb761b08.jpeg">
+
 ## [🗺 by_region_analysis](https://github.com/YOONSOOJINSOOJIN/Covid19_EDA_project/blob/main/by_region_analysis.ipynb)
+
 <img src = "https://user-images.githubusercontent.com/18055781/120914434-3b4c6f80-c6d9-11eb-8347-99ea0c2058b2.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914435-3b4c6f80-c6d9-11eb-95c1-a8e0409d1e49.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914436-3be50600-c6d9-11eb-9d97-0abdcc05339d.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914437-3be50600-c6d9-11eb-867e-279b722522d4.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914438-3c7d9c80-c6d9-11eb-9e5e-000c9f2d42bb.jpeg">
+
 ## [👨‍👩‍👧‍👦 by_age_analysis](https://github.com/YOONSOOJINSOOJIN/Covid19_EDA_project/blob/main/by_age_analysis.ipynb)
+
 <img src = "https://user-images.githubusercontent.com/18055781/120914439-3d163300-c6d9-11eb-8faf-e3aa11e52af9.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914440-3d163300-c6d9-11eb-9146-59ff164c341a.jpeg">
 <img src = "https://user-images.githubusercontent.com/18055781/120914441-3daec980-c6d9-11eb-9ddd-d6d356f8c6c5.jpeg">
